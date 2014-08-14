@@ -4,4 +4,7 @@ use strict;
 use warnings;
 # TODO
 
+# operations that are not allowed:
+# +, -, *, /, <, <=, >, >=
+
 1;
